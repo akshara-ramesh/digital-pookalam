@@ -11,7 +11,5 @@ This project generates a beautiful floral pattern programmatically.
 - HTML5 Canvas
 - CSS (Tailwind)
 
-
-
 ## 🙏 Acknowledgement
-Created for the Onam Digital Pookalam Challenge. 🌼
+Created for the  Code-a-Pookkalam 2025 by TinkerHub NSSCE. 🌼
