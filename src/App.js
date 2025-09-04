@@ -56,7 +56,7 @@ export default function Pookalam() {
 
     const render = () => {
       drawPookalam(rotation);
-      rotation += 0.002; // speed of spin (smaller = slower)
+      rotation += 0.001; // speed of spin (smaller = slower)
       requestAnimationFrame(render);
     };
 
