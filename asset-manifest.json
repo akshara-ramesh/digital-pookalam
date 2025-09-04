@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digital-pookalam/static/css/main.d77f254a.css",
+    "main.js": "/digital-pookalam/static/js/main.59608182.js",
+    "static/js/453.c7586355.chunk.js": "/digital-pookalam/static/js/453.c7586355.chunk.js",
+    "index.html": "/digital-pookalam/index.html",
+    "main.d77f254a.css.map": "/digital-pookalam/static/css/main.d77f254a.css.map",
+    "main.59608182.js.map": "/digital-pookalam/static/js/main.59608182.js.map",
+    "453.c7586355.chunk.js.map": "/digital-pookalam/static/js/453.c7586355.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d77f254a.css",
+    "static/js/main.59608182.js"
+  ]
+}
