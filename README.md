@@ -1,4 +1,4 @@
-# 🌸 Digital Onam Pookalam 🌸
+# 🌸 Digital Pookalam 🌸
 
 A colorful **digital pookalam** created using **React + Canvas** to celebrate the festival of Onam 🎉.  
 This project generates a beautiful floral pattern programmatically.
