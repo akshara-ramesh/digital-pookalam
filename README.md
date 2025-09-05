@@ -13,7 +13,7 @@ This project generates a beautiful floral pattern programmatically.
 
 
 ## 📸 Screenshot
-[Pookalam Preview](https://github.com/user-attachments/assets/f51317bc-50e7-4402-a0fe-933151fa450e)
+👉 [Pookalam Preview](https://github.com/user-attachments/assets/f51317bc-50e7-4402-a0fe-933151fa450e)
 
 
 
